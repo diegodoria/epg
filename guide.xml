@@ -1,0 +1,2109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <icon src="http://www.lineup.tv.br/canais/amc.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/amc.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <icon src="http://www.lineup.tv.br/canais/animalplanet.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name lang="pt">Animal Planet HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/animalplanet.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <programme start="20180521003500 -0300" stop="20180521021000 -0300" channel="AMC">
+    <title lang="pt">Vírus</title>
+    <desc lang="pt">Um vírus mortal se espalhou por todo o globo. Quatro jovens dirigem pelas estradas dos EUA com o objetivo de chegar ao Golfo do México, onde poderiam sobreviver à doença apocalíptica(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521021000 -0300" stop="20180521034500 -0300" channel="AMC">
+    <title lang="pt">Padre</title>
+    <desc lang="pt">Um lendário sacerdote guerreiro da última guerra com os vampiros se vê obrigado a quebrar seus votos sagrados quando sua sobrinha é sequestrada por um grupo de vampiros assassinos. Ele deve encontrá-la antes que ela se transforme(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521034500 -0300" stop="20180521060000 -0300" channel="AMC">
+    <title lang="pt">Vidas em Jogo</title>
+    <desc lang="pt">Banqueiro ganha de presente de aniversário de seu irmão um cartão que lhe dá acesso a um divertimento incomum. Deste momento em diante Nicholas se vê envolvido em um perigoso "jogo", que parece ter como objetivo matá-lo(n)</desc>
+    <date>1997</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521060000 -0300" stop="20180521063000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180521063000 -0300" stop="20180521070000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180521070000 -0300" stop="20180521073000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180521073000 -0300" stop="20180521080000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180521080000 -0300" stop="20180521083000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180521083000 -0300" stop="20180521090000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180521090000 -0300" stop="20180521093000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180521093000 -0300" stop="20180521100000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180521100000 -0300" stop="20180521123000 -0300" channel="AMC">
+    <title lang="pt">Hook - A Volta do Capitão Gancho</title>
+    <desc lang="pt">Embora isso não estivesse em seus planos, Peter Pan cresceu e sequer se lembra de sua infância. Mas terá que voltar aos velhos tempos(n)</desc>
+    <date>1991</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521123000 -0300" stop="20180521141000 -0300" channel="AMC">
+    <title lang="pt">O Casamento do Ano</title>
+    <desc lang="pt">Missy e Al se conhecem desde crianças e estão prestes a se casar. Ele recebe a notícia de que sua mãe biológica, e muito religiosa, virá ao casamento, seus pais adotivos precisarão fingir que ainda são casados(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521141000 -0300" stop="20180521164000 -0300" channel="AMC">
+    <title lang="pt">Hook - A Volta do Capitão Gancho</title>
+    <desc lang="pt">Embora isso não estivesse em seus planos, Peter Pan cresceu e sequer se lembra de sua infância. Mas terá que voltar aos velhos tempos(n)</desc>
+    <date>1991</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521164000 -0300" stop="20180521184500 -0300" channel="AMC">
+    <title lang="pt">O Ilusionista</title>
+    <desc lang="pt">Quando Eisenheim começa a apresentar seu show de magia, seus poderes chegam aos ouvidos do príncipe Leopold, que vai ao espetáculo com sua namorada Sophie. Convencido de que ele é uma fraude, Leopold quer desmascará-lo(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>República Tcheca/EUA</country>
+  </programme>
+  <programme start="20180521184500 -0300" stop="20180521191000 -0300" channel="AMC">
+    <title lang="pt">Comic Book Men - S7E7</title>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521191000 -0300" stop="20180521202500 -0300" channel="AMC">
+    <title lang="pt">O Que Queremos Para O Mundo?</title>
+    <desc lang="pt">Filme infanto-juvenil que conta a história de Luzia, uma menina introvertida, mas dona de um mundo interno movimentado, fértil e criativo(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20180521202500 -0300" stop="20180521223000 -0300" channel="AMC">
+    <title lang="pt">O Dom da Premonição</title>
+    <desc lang="pt">Annie é vidente e utiliza seu dom por necessidade. Procurada por Wayne, o sobrenatural se transforma em algo aterrador e apenas seu dom poderá salvá-la(n)</desc>
+    <date>2000</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521223000 -0300" stop="20180521233500 -0300" channel="AMC">
+    <title lang="pt">The Terror - S1E10</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521233500 -0300" stop="20180522003000 -0300" channel="AMC">
+    <title lang="pt">Fear The Walking Dead - S4E6</title>
+    <desc lang="pt">Strand não concorda com as decisões de Madison. Enquanto isso, as coisas no estádio tomam um rumo inesperado(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522003000 -0300" stop="20180522023000 -0300" channel="AMC">
+    <title lang="pt">Preciosa - Uma História de Esperança</title>
+    <desc lang="pt">Precious sofre as mais diversas privações. Abusada pela mãe, violentada pelo pai e grávida de seu segundo filho, é convidada a frequentar uma escola alternativa, na qual vê a esperança de conseguir dar um novo rumo à sua vida(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522023000 -0300" stop="20180522033000 -0300" channel="AMC">
+    <title lang="pt">Talking Dead - Fear Edition - S4E6</title>
+    <desc lang="pt">Atores, produtores e fãs da série revivem os melhores momentos do episódio que foi ao ar na mesma noite. Talking Dead: Fear Edition apresentará reportagens sobre as gravações da série, imagens engraçadas e material exclusivo do próximo capítulo(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522033000 -0300" stop="20180522053000 -0300" channel="AMC">
+    <title lang="pt">Preciosa - Uma História de Esperança</title>
+    <desc lang="pt">Precious sofre as mais diversas privações. Abusada pela mãe, violentada pelo pai e grávida de seu segundo filho, é convidada a frequentar uma escola alternativa, na qual vê a esperança de conseguir dar um novo rumo à sua vida(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522053000 -0300" stop="20180522060000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522060000 -0300" stop="20180522063000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522063000 -0300" stop="20180522070000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522070000 -0300" stop="20180522073000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522073000 -0300" stop="20180522080000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522080000 -0300" stop="20180522083000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522083000 -0300" stop="20180522090000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522090000 -0300" stop="20180522093000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522093000 -0300" stop="20180522100000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522100000 -0300" stop="20180522103000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522103000 -0300" stop="20180522110000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522110000 -0300" stop="20180522113000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522113000 -0300" stop="20180522132500 -0300" channel="AMC">
+    <title lang="pt">O Show de Truman: O Show da Vida</title>
+    <desc lang="pt">Vendedor de seguros tem sua vida virada de cabeça para baixo quando descobre que é o astro, desde que nasceu, de um show de televisão, dedicado a contar a todos os passos de sua existência(n)</desc>
+    <date>1998</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522132500 -0300" stop="20180522152000 -0300" channel="AMC">
+    <title lang="pt">Férias no Trailer</title>
+    <desc lang="pt">Desejando descansar, um homem decide levar sua família para uma viagem pelo Colorado a bordo de um trailer. Só que sua família não gosta da idéia(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>Reino Unido/Alemanha/EUA</country>
+  </programme>
+  <programme start="20180522152000 -0300" stop="20180522171500 -0300" channel="AMC">
+    <title lang="pt">O Show de Truman: O Show da Vida</title>
+    <desc lang="pt">Vendedor de seguros tem sua vida virada de cabeça para baixo quando descobre que é o astro, desde que nasceu, de um show de televisão, dedicado a contar a todos os passos de sua existência(n)</desc>
+    <date>1998</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522171500 -0300" stop="20180522174500 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522174500 -0300" stop="20180522181500 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522181500 -0300" stop="20180522193000 -0300" channel="AMC">
+    <title lang="pt">Centro de Gravidade</title>
+    <desc lang="pt">Um casal desafia os limites da privacidade e o poder da influência em seu relacionamento ao aceitar seus papéis num jogo que não se mostra tão destrutivo quanto parece. Na verdade, é bem o oposto(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180522193000 -0300" stop="20180522213000 -0300" channel="AMC">
+    <title lang="pt">O Exterminador do Futuro 3: Rebelião das Máquinas</title>
+    <desc lang="pt">Dez anos depois, uma sofisticada máquina vem do futuro para acabar com John e os líderes da resistência. E só outro Exterminador conseguirá detê-la(n)</desc>
+    <date>2003</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA/Alemanha/Inglaterra</country>
+  </programme>
+  <programme start="20180522213000 -0300" stop="20180522223000 -0300" channel="AMC">
+    <title lang="pt">James Cameron's Story Of Science Fiction E3</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522223000 -0300" stop="20180523001000 -0300" channel="AMC">
+    <title lang="pt">Vírus</title>
+    <desc lang="pt">Um vírus mortal se espalhou por todo o globo. Quatro jovens dirigem pelas estradas dos EUA com o objetivo de chegar ao Golfo do México, onde poderiam sobreviver à doença apocalíptica(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180523001000 -0300" stop="20180523020500 -0300" channel="AMC">
+    <title lang="pt">Senhores do Crime</title>
+    <desc lang="pt">Enquanto investiga a morte de uma jovem durante o parto, Anna, uma inocente dona de casa, acidentalmente entra em um esquema de tráfico sexual administrado por um russo(n)</desc>
+    <date>2007</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>Reino Unido/Canadá/EUA</country>
+  </programme>
+  <programme start="20180523020500 -0300" stop="20180523040500 -0300" channel="AMC">
+    <title lang="pt">O Exterminador do Futuro 3: Rebelião das Máquinas</title>
+    <desc lang="pt">Dez anos depois, uma sofisticada máquina vem do futuro para acabar com John e os líderes da resistência. E só outro Exterminador conseguirá detê-la(n)</desc>
+    <date>2003</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA/Alemanha/Inglaterra</country>
+  </programme>
+  <programme start="20180523040500 -0300" stop="20180523060000 -0300" channel="AMC">
+    <title lang="pt">Matador em Perigo</title>
+    <desc lang="pt">Victor é um assassino de meia-idade, atraído por uma de suas vitimas, decide poupar sua vida, a partir daí ele revê todos os conceitos e inicia o treinamento de um aprendiz(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>Reino Unido/França</country>
+  </programme>
+  <programme start="20180523060000 -0300" stop="20180523063000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180523063000 -0300" stop="20180523070000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180523070000 -0300" stop="20180523073000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180523073000 -0300" stop="20180523080000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180523080000 -0300" stop="20180523083000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180523083000 -0300" stop="20180523090000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180523090000 -0300" stop="20180523093000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180523093000 -0300" stop="20180523100000 -0300" channel="AMC">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180523100000 -0300" stop="20180523103000 -0300" channel="AMC">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180523103000 -0300" stop="20180523123000 -0300" channel="AMC">
+    <title lang="pt">Os Grandes Guerreiros</title>
+    <desc lang="pt">Baseado na história escrita por Wing-Shing Ma, desta vez Wind e Cloud têm que enfrentar Lord Godless, um poderoso guerreiro chinês que quer conquistar a China, e seu filho, Heart(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>Hong Kong</country>
+  </programme>
+  <programme start="20180523123000 -0300" stop="20180523142500 -0300" channel="AMC">
+    <title lang="pt">Férias no Trailer</title>
+    <desc lang="pt">Desejando descansar, um homem decide levar sua família para uma viagem pelo Colorado a bordo de um trailer. Só que sua família não gosta da idéia(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>Reino Unido/Alemanha/EUA</country>
+  </programme>
+  <programme start="20180523142500 -0300" stop="20180523165000 -0300" channel="AMC">
+    <title lang="pt">Os Piratas</title>
+    <desc lang="pt">Um bando de piratas e um grupo de bandidos que lutam para pegar a cauda da baleia cinzenta que engoliu o selo real(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>Coreia do Sul</country>
+  </programme>
+  <programme start="20180523165000 -0300" stop="20180523185000 -0300" channel="AMC">
+    <title lang="pt">O Exterminador do Futuro 3: Rebelião das Máquinas</title>
+    <desc lang="pt">Dez anos depois, uma sofisticada máquina vem do futuro para acabar com John e os líderes da resistência. E só outro Exterminador conseguirá detê-la(n)</desc>
+    <date>2003</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA/Alemanha/Inglaterra</country>
+  </programme>
+  <programme start="20180523185000 -0300" stop="20180523195500 -0300" channel="AMC">
+    <title lang="pt">The Terror - S1E10</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180523195500 -0300" stop="20180523205000 -0300" channel="AMC">
+    <title lang="pt">Fear The Walking Dead - S4E6</title>
+    <desc lang="pt">Strand não concorda com as decisões de Madison. Enquanto isso, as coisas no estádio tomam um rumo inesperado(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180523205000 -0300" stop="20180523223000 -0300" channel="AMC">
+    <title lang="pt">Frankenstein: Entre Anjos e Demônios</title>
+    <desc lang="pt">O monstro criado pelo Dr. Frankenstein é atacado por demônios, mas é salvo por um grupo de gárgulas. Duzentos anos após esse episódio, o monstro descobre o motivo do interesse dos demônios(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>Austrália/EUA</country>
+  </programme>
+  <programme start="20180523223000 -0300" stop="20180524002000 -0300" channel="AMC">
+    <title lang="pt">A Haunting In Georgia</title>
+    <desc lang="pt">Documentaário que inspirou "Evocando Espíritos 2"(n)</desc>
+    <date>2002</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521003500 -0300" stop="20180521021000 -0300" channel="AMC HD">
+    <title lang="pt">Vírus</title>
+    <desc lang="pt">Um vírus mortal se espalhou por todo o globo. Quatro jovens dirigem pelas estradas dos EUA com o objetivo de chegar ao Golfo do México, onde poderiam sobreviver à doença apocalíptica(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521021000 -0300" stop="20180521034500 -0300" channel="AMC HD">
+    <title lang="pt">Padre</title>
+    <desc lang="pt">Um lendário sacerdote guerreiro da última guerra com os vampiros se vê obrigado a quebrar seus votos sagrados quando sua sobrinha é sequestrada por um grupo de vampiros assassinos. Ele deve encontrá-la antes que ela se transforme(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521034500 -0300" stop="20180521060000 -0300" channel="AMC HD">
+    <title lang="pt">Vidas em Jogo</title>
+    <desc lang="pt">Banqueiro ganha de presente de aniversário de seu irmão um cartão que lhe dá acesso a um divertimento incomum. Deste momento em diante Nicholas se vê envolvido em um perigoso "jogo", que parece ter como objetivo matá-lo(n)</desc>
+    <date>1997</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521060000 -0300" stop="20180521063000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180521063000 -0300" stop="20180521070000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180521070000 -0300" stop="20180521073000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180521073000 -0300" stop="20180521080000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180521080000 -0300" stop="20180521083000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180521083000 -0300" stop="20180521090000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180521090000 -0300" stop="20180521093000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180521093000 -0300" stop="20180521100000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180521100000 -0300" stop="20180521123000 -0300" channel="AMC HD">
+    <title lang="pt">Hook - A Volta do Capitão Gancho</title>
+    <desc lang="pt">Embora isso não estivesse em seus planos, Peter Pan cresceu e sequer se lembra de sua infância. Mas terá que voltar aos velhos tempos(n)</desc>
+    <date>1991</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521123000 -0300" stop="20180521141000 -0300" channel="AMC HD">
+    <title lang="pt">O Casamento do Ano</title>
+    <desc lang="pt">Missy e Al se conhecem desde crianças e estão prestes a se casar. Ele recebe a notícia de que sua mãe biológica, e muito religiosa, virá ao casamento, seus pais adotivos precisarão fingir que ainda são casados(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521141000 -0300" stop="20180521164000 -0300" channel="AMC HD">
+    <title lang="pt">Hook - A Volta do Capitão Gancho</title>
+    <desc lang="pt">Embora isso não estivesse em seus planos, Peter Pan cresceu e sequer se lembra de sua infância. Mas terá que voltar aos velhos tempos(n)</desc>
+    <date>1991</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521164000 -0300" stop="20180521184500 -0300" channel="AMC HD">
+    <title lang="pt">O Ilusionista</title>
+    <desc lang="pt">Quando Eisenheim começa a apresentar seu show de magia, seus poderes chegam aos ouvidos do príncipe Leopold, que vai ao espetáculo com sua namorada Sophie. Convencido de que ele é uma fraude, Leopold quer desmascará-lo(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>República Tcheca/EUA</country>
+  </programme>
+  <programme start="20180521184500 -0300" stop="20180521191000 -0300" channel="AMC HD">
+    <title lang="pt">Comic Book Men - S7E7</title>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521191000 -0300" stop="20180521202500 -0300" channel="AMC HD">
+    <title lang="pt">O Que Queremos Para O Mundo?</title>
+    <desc lang="pt">Filme infanto-juvenil que conta a história de Luzia, uma menina introvertida, mas dona de um mundo interno movimentado, fértil e criativo(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20180521202500 -0300" stop="20180521223000 -0300" channel="AMC HD">
+    <title lang="pt">O Dom da Premonição</title>
+    <desc lang="pt">Annie é vidente e utiliza seu dom por necessidade. Procurada por Wayne, o sobrenatural se transforma em algo aterrador e apenas seu dom poderá salvá-la(n)</desc>
+    <date>2000</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521223000 -0300" stop="20180521233500 -0300" channel="AMC HD">
+    <title lang="pt">The Terror - S1E10</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521233500 -0300" stop="20180522003000 -0300" channel="AMC HD">
+    <title lang="pt">Fear The Walking Dead - S4E6</title>
+    <desc lang="pt">Strand não concorda com as decisões de Madison. Enquanto isso, as coisas no estádio tomam um rumo inesperado(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522003000 -0300" stop="20180522023000 -0300" channel="AMC HD">
+    <title lang="pt">Preciosa - Uma História de Esperança</title>
+    <desc lang="pt">Precious sofre as mais diversas privações. Abusada pela mãe, violentada pelo pai e grávida de seu segundo filho, é convidada a frequentar uma escola alternativa, na qual vê a esperança de conseguir dar um novo rumo à sua vida(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522023000 -0300" stop="20180522033000 -0300" channel="AMC HD">
+    <title lang="pt">Talking Dead - Fear Edition - S4E6</title>
+    <desc lang="pt">Atores, produtores e fãs da série revivem os melhores momentos do episódio que foi ao ar na mesma noite. Talking Dead: Fear Edition apresentará reportagens sobre as gravações da série, imagens engraçadas e material exclusivo do próximo capítulo(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522033000 -0300" stop="20180522053000 -0300" channel="AMC HD">
+    <title lang="pt">Preciosa - Uma História de Esperança</title>
+    <desc lang="pt">Precious sofre as mais diversas privações. Abusada pela mãe, violentada pelo pai e grávida de seu segundo filho, é convidada a frequentar uma escola alternativa, na qual vê a esperança de conseguir dar um novo rumo à sua vida(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522053000 -0300" stop="20180522060000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522060000 -0300" stop="20180522063000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522063000 -0300" stop="20180522070000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522070000 -0300" stop="20180522073000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522073000 -0300" stop="20180522080000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522080000 -0300" stop="20180522083000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522083000 -0300" stop="20180522090000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522090000 -0300" stop="20180522093000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522093000 -0300" stop="20180522100000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522100000 -0300" stop="20180522103000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522103000 -0300" stop="20180522110000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522110000 -0300" stop="20180522113000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522113000 -0300" stop="20180522132500 -0300" channel="AMC HD">
+    <title lang="pt">O Show de Truman: O Show da Vida</title>
+    <desc lang="pt">Vendedor de seguros tem sua vida virada de cabeça para baixo quando descobre que é o astro, desde que nasceu, de um show de televisão, dedicado a contar a todos os passos de sua existência(n)</desc>
+    <date>1998</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522132500 -0300" stop="20180522152000 -0300" channel="AMC HD">
+    <title lang="pt">Férias no Trailer</title>
+    <desc lang="pt">Desejando descansar, um homem decide levar sua família para uma viagem pelo Colorado a bordo de um trailer. Só que sua família não gosta da idéia(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>Reino Unido/Alemanha/EUA</country>
+  </programme>
+  <programme start="20180522152000 -0300" stop="20180522171500 -0300" channel="AMC HD">
+    <title lang="pt">O Show de Truman: O Show da Vida</title>
+    <desc lang="pt">Vendedor de seguros tem sua vida virada de cabeça para baixo quando descobre que é o astro, desde que nasceu, de um show de televisão, dedicado a contar a todos os passos de sua existência(n)</desc>
+    <date>1998</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522171500 -0300" stop="20180522174500 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522174500 -0300" stop="20180522181500 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180522181500 -0300" stop="20180522193000 -0300" channel="AMC HD">
+    <title lang="pt">Centro de Gravidade</title>
+    <desc lang="pt">Um casal desafia os limites da privacidade e o poder da influência em seu relacionamento ao aceitar seus papéis num jogo que não se mostra tão destrutivo quanto parece. Na verdade, é bem o oposto(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180522193000 -0300" stop="20180522213000 -0300" channel="AMC HD">
+    <title lang="pt">O Exterminador do Futuro 3: Rebelião das Máquinas</title>
+    <desc lang="pt">Dez anos depois, uma sofisticada máquina vem do futuro para acabar com John e os líderes da resistência. E só outro Exterminador conseguirá detê-la(n)</desc>
+    <date>2003</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA/Alemanha/Inglaterra</country>
+  </programme>
+  <programme start="20180522213000 -0300" stop="20180522223000 -0300" channel="AMC HD">
+    <title lang="pt">James Cameron's Story Of Science Fiction E3</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522223000 -0300" stop="20180523001000 -0300" channel="AMC HD">
+    <title lang="pt">Vírus</title>
+    <desc lang="pt">Um vírus mortal se espalhou por todo o globo. Quatro jovens dirigem pelas estradas dos EUA com o objetivo de chegar ao Golfo do México, onde poderiam sobreviver à doença apocalíptica(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180523001000 -0300" stop="20180523020500 -0300" channel="AMC HD">
+    <title lang="pt">Senhores do Crime</title>
+    <desc lang="pt">Enquanto investiga a morte de uma jovem durante o parto, Anna, uma inocente dona de casa, acidentalmente entra em um esquema de tráfico sexual administrado por um russo(n)</desc>
+    <date>2007</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>Reino Unido/Canadá/EUA</country>
+  </programme>
+  <programme start="20180523020500 -0300" stop="20180523040500 -0300" channel="AMC HD">
+    <title lang="pt">O Exterminador do Futuro 3: Rebelião das Máquinas</title>
+    <desc lang="pt">Dez anos depois, uma sofisticada máquina vem do futuro para acabar com John e os líderes da resistência. E só outro Exterminador conseguirá detê-la(n)</desc>
+    <date>2003</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA/Alemanha/Inglaterra</country>
+  </programme>
+  <programme start="20180523040500 -0300" stop="20180523060000 -0300" channel="AMC HD">
+    <title lang="pt">Matador em Perigo</title>
+    <desc lang="pt">Victor é um assassino de meia-idade, atraído por uma de suas vitimas, decide poupar sua vida, a partir daí ele revê todos os conceitos e inicia o treinamento de um aprendiz(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>Reino Unido/França</country>
+  </programme>
+  <programme start="20180523060000 -0300" stop="20180523063000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180523063000 -0300" stop="20180523070000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180523070000 -0300" stop="20180523073000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180523073000 -0300" stop="20180523080000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180523080000 -0300" stop="20180523083000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180523083000 -0300" stop="20180523090000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180523090000 -0300" stop="20180523093000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180523093000 -0300" stop="20180523100000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180523100000 -0300" stop="20180523103000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180523103000 -0300" stop="20180523123000 -0300" channel="AMC HD">
+    <title lang="pt">Os Grandes Guerreiros</title>
+    <desc lang="pt">Baseado na história escrita por Wing-Shing Ma, desta vez Wind e Cloud têm que enfrentar Lord Godless, um poderoso guerreiro chinês que quer conquistar a China, e seu filho, Heart(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>Hong Kong</country>
+  </programme>
+  <programme start="20180523123000 -0300" stop="20180523142500 -0300" channel="AMC HD">
+    <title lang="pt">Férias no Trailer</title>
+    <desc lang="pt">Desejando descansar, um homem decide levar sua família para uma viagem pelo Colorado a bordo de um trailer. Só que sua família não gosta da idéia(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>Reino Unido/Alemanha/EUA</country>
+  </programme>
+  <programme start="20180523142500 -0300" stop="20180523165000 -0300" channel="AMC HD">
+    <title lang="pt">Os Piratas</title>
+    <desc lang="pt">Um bando de piratas e um grupo de bandidos que lutam para pegar a cauda da baleia cinzenta que engoliu o selo real(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>Coreia do Sul</country>
+  </programme>
+  <programme start="20180523165000 -0300" stop="20180523185000 -0300" channel="AMC HD">
+    <title lang="pt">O Exterminador do Futuro 3: Rebelião das Máquinas</title>
+    <desc lang="pt">Dez anos depois, uma sofisticada máquina vem do futuro para acabar com John e os líderes da resistência. E só outro Exterminador conseguirá detê-la(n)</desc>
+    <date>2003</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA/Alemanha/Inglaterra</country>
+  </programme>
+  <programme start="20180523185000 -0300" stop="20180523195500 -0300" channel="AMC HD">
+    <title lang="pt">The Terror - S1E10</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180523195500 -0300" stop="20180523205000 -0300" channel="AMC HD">
+    <title lang="pt">Fear The Walking Dead - S4E6</title>
+    <desc lang="pt">Strand não concorda com as decisões de Madison. Enquanto isso, as coisas no estádio tomam um rumo inesperado(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180523205000 -0300" stop="20180523223000 -0300" channel="AMC HD">
+    <title lang="pt">Frankenstein: Entre Anjos e Demônios</title>
+    <desc lang="pt">O monstro criado pelo Dr. Frankenstein é atacado por demônios, mas é salvo por um grupo de gárgulas. Duzentos anos após esse episódio, o monstro descobre o motivo do interesse dos demônios(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>Austrália/EUA</country>
+  </programme>
+  <programme start="20180523223000 -0300" stop="20180524002000 -0300" channel="AMC HD">
+    <title lang="pt">A Haunting In Georgia</title>
+    <desc lang="pt">Documentaário que inspirou "Evocando Espíritos 2"(n)</desc>
+    <date>2002</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521000600 -0300" stop="20180521010600 -0300" channel="Animal Planet">
+    <title lang="pt">Veterinários do Texas - S2E12</title>
+    <desc lang="pt">Acompanhe o trabalho de três veterinários do Texas e o cotidiano de suas famílias. Amigos de universidade, os três mudaram para Houston e abriram um hospital veterinário. Com muito humor e compaixão, eles cuidam de suas famílias e seus pacientes(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521010600 -0300" stop="20180521015600 -0300" channel="Animal Planet">
+    <title lang="pt">Meu Gato Endiabrado - S6E6</title>
+    <desc lang="pt">Maryam entende os animais, mas não consegue se comunicar com sua gata agressiva, Lily. Depois de voltar a morar com os pais com sua gata, Khloe, Kym descobre uma colônia de gatos atrás da casa(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180521015600 -0300" stop="20180521024600 -0300" channel="Animal Planet">
+    <title lang="pt">Com Água Até o Pescoço - S6E17</title>
+    <desc lang="pt">Com 2,13m, Hassan Whiteside sabe o que significa ser GRANDE. Wayde e Brett constroem para o astro da NBA um aquário tão grande que não passa pela porta da frente de sua casa em Miami(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521024600 -0300" stop="20180521033600 -0300" channel="Animal Planet">
+    <title lang="pt">Com Água Até o Pescoço - S6E18</title>
+    <desc lang="pt">A fábrica de ferramentas Snap On Tools contrata a ATM para surpreender os participantes de sua convenção anual. Já o restaurante Nacho Daddy encomenda um terrário para seus escorpiões(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521033600 -0300" stop="20180521042700 -0300" channel="Animal Planet">
+    <title lang="pt">Com Água Até o Pescoço - S6E19</title>
+    <desc lang="pt">A reforma de The Thumb, um posto de gasolina diferente, inclui até um aquário customizado feito pela ATM. Wayde e Brett analisam o projeto de um aquário para o Donut Bar, em Las Vegas(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521042700 -0300" stop="20180521051800 -0300" channel="Animal Planet">
+    <title lang="pt">Com Água Até o Pescoço - S6E20</title>
+    <desc lang="pt">Wayde, Brett e a pop star australiana Alli Simpson viajam para Flint, Michigan, para doar um incrível aquário para a Children's Miracle Network e o Hospital Infantil Hurley(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521051800 -0300" stop="20180521060900 -0300" channel="Animal Planet">
+    <title lang="pt">Veterinários do Texas - S2E12</title>
+    <desc lang="pt">Acompanhe o trabalho de três veterinários do Texas e o cotidiano de suas famílias. Amigos de universidade, os três mudaram para Houston e abriram um hospital veterinário. Com muito humor e compaixão, eles cuidam de suas famílias e seus pacientes(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521060900 -0300" stop="20180521063900 -0300" channel="Animal Planet">
+    <title lang="pt">Pântano Perigoso E26</title>
+    <desc lang="pt">Os irmãos Keszey correm contra o tempo para descobrir o que está matando os jacarés. Eles têm dificuldade para trabalhar juntos enquanto coletam ovos(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180521063900 -0300" stop="20180521073000 -0300" channel="Animal Planet">
+    <title lang="pt">Justiça Animal - S2E10</title>
+    <desc lang="pt">A polícia solta na floresta um urso que se aproximou da zona urbana e confronta pessoas que acenderam uma fogueira em uma área restrita. Na água, um barqueiro embriagado é preso(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20180521073000 -0300" stop="20180521082100 -0300" channel="Animal Planet">
+    <title lang="pt">Meu Gato Endiabrado - S7E5</title>
+    <desc lang="pt">Jackson entra no mundo de Ellen, uma cuidadora que alimenta e tenta conter gatos de rua há mais de 20 anos; dois gatos sem pelos da raça Donskoy fazem a maior bagunça na casa de seu guardião(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180521082100 -0300" stop="20180521091200 -0300" channel="Animal Planet">
+    <title lang="pt">Com Água Até o Pescoço - S7E15</title>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521091200 -0300" stop="20180521100700 -0300" channel="Animal Planet">
+    <title lang="pt">África - S1E3</title>
+    <desc lang="pt">A floresta tropical do Congo, no coração da África, é um habitat pulsante e cheio de vida. Do meio da floresta às margens do Oceano Atlântico, cada um tem que brigar por seu espaço(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180521100700 -0300" stop="20180521110200 -0300" channel="Animal Planet">
+    <title lang="pt">Justiça Animal - S2E10</title>
+    <desc lang="pt">A polícia solta na floresta um urso que se aproximou da zona urbana e confronta pessoas que acenderam uma fogueira em uma área restrita. Na água, um barqueiro embriagado é preso(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20180521110200 -0300" stop="20180521115300 -0300" channel="Animal Planet">
+    <title lang="pt">Meu Gato Endiabrado - S7E5</title>
+    <desc lang="pt">Jackson entra no mundo de Ellen, uma cuidadora que alimenta e tenta conter gatos de rua há mais de 20 anos; dois gatos sem pelos da raça Donskoy fazem a maior bagunça na casa de seu guardião(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180521115300 -0300" stop="20180521122300 -0300" channel="Animal Planet">
+    <title lang="pt">Pântano Perigoso E26</title>
+    <desc lang="pt">Os irmãos Keszey correm contra o tempo para descobrir o que está matando os jacarés. Eles têm dificuldade para trabalhar juntos enquanto coletam ovos(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180521122300 -0300" stop="20180521132300 -0300" channel="Animal Planet">
+    <title lang="pt">Com Água Até o Pescoço - S7E15</title>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521132300 -0300" stop="20180521141800 -0300" channel="Animal Planet">
+    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan - S3E6</title>
+    <desc lang="pt">Dom viaja para o Sri Lanka para saber mais sobre a cobra mais famosa do mundo: a naja indiana(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180521141800 -0300" stop="20180521150900 -0300" channel="Animal Planet">
+    <title lang="pt">Caçadores das Profundezas - S4E1</title>
+    <desc lang="pt">O raro ataque de uma orca a um tubarão-branco obriga os tubarões de Neptune Island a vagar pelos leitos de abalone, arriscando a vida dos mergulhadores(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180521150900 -0300" stop="20180521160000 -0300" channel="Animal Planet">
+    <title lang="pt">Caçadores das Profundezas - S4E2</title>
+    <desc lang="pt">Toda a indústria de abalone de Port Lincoln é ameaçada quando tubarões-brancos começam a aparecer inesperadamente(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180521160000 -0300" stop="20180521165100 -0300" channel="Animal Planet">
+    <title lang="pt">Caçadores das Profundezas - S4E3</title>
+    <desc lang="pt">Os mergulhadores são obrigados a ir mais longe e trabalhar em águas mais profundas para levar para casa os valiosos moluscos, apesar do número crescente de tubarões-brancos rondando a costa(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180521165100 -0300" stop="20180521174200 -0300" channel="Animal Planet">
+    <title lang="pt">África - S1E3</title>
+    <desc lang="pt">A floresta tropical do Congo, no coração da África, é um habitat pulsante e cheio de vida. Do meio da floresta às margens do Oceano Atlântico, cada um tem que brigar por seu espaço(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180521174200 -0300" stop="20180521181000 -0300" channel="Animal Planet">
+    <title lang="pt">Pântano Perigoso E21</title>
+    <desc lang="pt">Robbie e Stephen ajudam um criador de aligátores a recapturar um animal premiado. Em St. Augustine, os irmãos conhecem mais um aligátor enorme - e Stephen não se dá muito bem com ele(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180521181000 -0300" stop="20180521183600 -0300" channel="Animal Planet">
+    <title lang="pt">Aprendiz Animal E4</title>
+    <desc lang="pt">Cíntia é proprietária do Santuário Terra dos Bichos, projeto bancado por ela para cuidar de animais que sofreram maus tratos. Gui logo se identifica com os bichos da fazenda(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180521183600 -0300" stop="20180521190600 -0300" channel="Animal Planet">
+    <title lang="pt">Terra Brasil E14</title>
+    <desc lang="pt">Anderson, Mayra e Aruay conhecem o vale das velozias-gigantes, plantas que só ocorrem em determinadas regiões de Minas Gerais com alguns exemplares tendo mais de 600 anos(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Meio Ambiente</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180521190600 -0300" stop="20180521195600 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio - S9E6</title>
+    <desc lang="pt">Jeremy Wade se dedica à investigação mais complexa de sua carreira: desvendar o mistério do que aconteceu aos passageiros de um navio torpedeado na Segunda Guerra Mundial, no meio do Atlântico(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521195600 -0300" stop="20180521204100 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Terra - S1E11</title>
+    <desc lang="pt">Os oceanos cobrem 2/3 do nosso planeta, mas ainda há tanto a explorar. Sem dúvida, a parte mais desconhecida do planeta é o oceano. Este programa mergulha nele e revela um pouco mais da vida existente nas profundezas(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180521204100 -0300" stop="20180521213100 -0300" channel="Animal Planet">
+    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan - S2E9</title>
+    <desc lang="pt">Dominic chega à Costa Rica, que abriga mais de meio milhão de espécies de animais, incluindo uma rã do tamanho de uma unha, incrivelmente bonita e extremamente ameaçada(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180521213100 -0300" stop="20180521222100 -0300" channel="Animal Planet">
+    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan - S2E10</title>
+    <desc lang="pt">Dominic enfrenta uma de suas missões mais desafiadoras ao viajar para a terra do sol nascente em busca da salamandra-gigante(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180521222100 -0300" stop="20180521231100 -0300" channel="Animal Planet">
+    <title lang="pt">Perdido na Califórnia E5</title>
+    <desc lang="pt">Remando em um caiaque, Frank mostra os animais marinhos que vivem no estuário do porto de Moss Landing, uma reserva de espécies protegidas(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+  </programme>
+  <programme start="20180521231100 -0300" stop="20180522000600 -0300" channel="Animal Planet">
+    <title lang="pt">Perdido na Califórnia E6</title>
+    <desc lang="pt">Frank percorre o Parque Nacional Yosemite, onde encontra um dos felinos mais belos do mundo: o puma(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+  </programme>
+  <programme start="20180522000600 -0300" stop="20180522010600 -0300" channel="Animal Planet">
+    <title lang="pt">Veterinários do Texas - S2E2</title>
+    <desc lang="pt">Um susto interrompe o sonho do Dr. Blue de viajar de moto com seu irmão. O Dr. Ross trata um dragão-barbudo com ovos ruins. O Dr. Lavigne não sabe o que fazer com um tumor na pata de um boxer(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522010600 -0300" stop="20180522015600 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio - S9E6</title>
+    <desc lang="pt">Jeremy Wade se dedica à investigação mais complexa de sua carreira: desvendar o mistério do que aconteceu aos passageiros de um navio torpedeado na Segunda Guerra Mundial, no meio do Atlântico(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522015600 -0300" stop="20180522024600 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Terra - S1E11</title>
+    <desc lang="pt">Os oceanos cobrem 2/3 do nosso planeta, mas ainda há tanto a explorar. Sem dúvida, a parte mais desconhecida do planeta é o oceano. Este programa mergulha nele e revela um pouco mais da vida existente nas profundezas(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180522024600 -0300" stop="20180522033600 -0300" channel="Animal Planet">
+    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan - S2E9</title>
+    <desc lang="pt">Dominic chega à Costa Rica, que abriga mais de meio milhão de espécies de animais, incluindo uma rã do tamanho de uma unha, incrivelmente bonita e extremamente ameaçada(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180522033600 -0300" stop="20180522042700 -0300" channel="Animal Planet">
+    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan - S2E10</title>
+    <desc lang="pt">Dominic enfrenta uma de suas missões mais desafiadoras ao viajar para a terra do sol nascente em busca da salamandra-gigante(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180522042700 -0300" stop="20180522051800 -0300" channel="Animal Planet">
+    <title lang="pt">Perdido na Califórnia E5</title>
+    <desc lang="pt">Remando em um caiaque, Frank mostra os animais marinhos que vivem no estuário do porto de Moss Landing, uma reserva de espécies protegidas(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+  </programme>
+  <programme start="20180522051800 -0300" stop="20180522060900 -0300" channel="Animal Planet">
+    <title lang="pt">Perdido na Califórnia E6</title>
+    <desc lang="pt">Frank percorre o Parque Nacional Yosemite, onde encontra um dos felinos mais belos do mundo: o puma(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+  </programme>
+  <programme start="20180522060900 -0300" stop="20180522063900 -0300" channel="Animal Planet">
+    <title lang="pt">Pântano Perigoso E27</title>
+    <desc lang="pt">Os irmãos capturam um dos crocodilos mais raros do mundo. Será que conseguirão fazer com que ele se reproduza e salve os negócios? Porcos selvagens ameaçam a fazenda(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180522063900 -0300" stop="20180522073000 -0300" channel="Animal Planet">
+    <title lang="pt">Justiça Animal - S3E1</title>
+    <desc lang="pt">A Polícia de Caça e Pesca de Washington procura filhotes perdidos de puma. No porto de Seattle, um pescador é preso e um policial confronta uma família que recolhe filhotes de caranguejos(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20180522073000 -0300" stop="20180522082100 -0300" channel="Animal Planet">
+    <title lang="pt">Meu Gato Endiabrado - S7E6</title>
+    <desc lang="pt">Jackson encontra Samantha, que tem tanto medo de seu gato que o deixa em uma caixa fora de casa; no Brooklyn, ele atende um casal que sofre com as brigas constantes de seus gatos(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180522082100 -0300" stop="20180522091200 -0300" channel="Animal Planet">
+    <title lang="pt">Com Água Até o Pescoço - S7E16</title>
+    <desc lang="pt">O jogador de futebol americano Antonio Brown acredita que um aquário de peixes pode ajudá-lo a chegar ao Super Bowl este ano - e a ATM faz de tudo para manter o astro motivado(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522091200 -0300" stop="20180522100700 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Gelado: Primavera E2</title>
+    <desc lang="pt">O Ártico e a Antártica continuam sendo os lugares mais selvagens da Terra. Neste episódio de Planeta Gelado vemos a chegada da primavera e a volta do sol e da vida aos polos(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180522100700 -0300" stop="20180522110200 -0300" channel="Animal Planet">
+    <title lang="pt">Justiça Animal - S3E1</title>
+    <desc lang="pt">A Polícia de Caça e Pesca de Washington procura filhotes perdidos de puma. No porto de Seattle, um pescador é preso e um policial confronta uma família que recolhe filhotes de caranguejos(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20180522110200 -0300" stop="20180522115300 -0300" channel="Animal Planet">
+    <title lang="pt">Meu Gato Endiabrado - S7E6</title>
+    <desc lang="pt">Jackson encontra Samantha, que tem tanto medo de seu gato que o deixa em uma caixa fora de casa; no Brooklyn, ele atende um casal que sofre com as brigas constantes de seus gatos(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180522115300 -0300" stop="20180522122300 -0300" channel="Animal Planet">
+    <title lang="pt">Pântano Perigoso E27</title>
+    <desc lang="pt">Os irmãos capturam um dos crocodilos mais raros do mundo. Será que conseguirão fazer com que ele se reproduza e salve os negócios? Porcos selvagens ameaçam a fazenda(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180522122300 -0300" stop="20180522132300 -0300" channel="Animal Planet">
+    <title lang="pt">Com Água Até o Pescoço - S7E16</title>
+    <desc lang="pt">O jogador de futebol americano Antonio Brown acredita que um aquário de peixes pode ajudá-lo a chegar ao Super Bowl este ano - e a ATM faz de tudo para manter o astro motivado(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522132300 -0300" stop="20180522141800 -0300" channel="Animal Planet">
+    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan - S3E7</title>
+    <desc lang="pt">Dom procura a espécie mais próxima dos lendários dragões: o lagarto voador das Filipinas. Para isso, ele explora o enorme arquipélago, formado por mais de 7.000 ilhas(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180522141800 -0300" stop="20180522150900 -0300" channel="Animal Planet">
+    <title lang="pt">Dra. Dee: Veterinária do Alasca - S2E2</title>
+    <desc lang="pt">A Dr. Dee começa a arrecadar fundos para um abrigo em Fairbanks com uma competição de truques de animais de estimação. Uma porca chamada Lilly Lou é submetida a uma cirurgia cheia de surpresas(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522150900 -0300" stop="20180522160000 -0300" channel="Animal Planet">
+    <title lang="pt">Dra. Dee: Veterinária do Alasca - S2E3</title>
+    <desc lang="pt">A Dra. Dee e Ken trabalham numa clínica veterinária em Eagle, Alaska. O Dr. Terry realiza uma cirurgia em um cão que sofreu um ataque brutal. A Dra. Dee soluciona o mistério de uma tartaruga apaixonada(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522160000 -0300" stop="20180522165100 -0300" channel="Animal Planet">
+    <title lang="pt">Dra. Dee: Veterinária do Alasca - S2E4</title>
+    <desc lang="pt">Dee examina um chihuahua com uma doença grave, apara o bico de uma arara e atende um bezerra que sofreu complicações após o parto. A Dra. Dee e seu marido, Ken, recebem sete bodes em sua casa(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522165100 -0300" stop="20180522174200 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Gelado: Primavera E2</title>
+    <desc lang="pt">O Ártico e a Antártica continuam sendo os lugares mais selvagens da Terra. Neste episódio de Planeta Gelado vemos a chegada da primavera e a volta do sol e da vida aos polos(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180522174200 -0300" stop="20180522181000 -0300" channel="Animal Planet">
+    <title lang="pt">Pântano Perigoso E22</title>
+    <desc lang="pt">Quando o maior casal da fazenda não aparece para se alimentar, os rapazes precisam trazê-lo para a terra. Robbie e Stephen chamam Jerry e JP para ajudar a capturar um crocodilo-cubano e iniciar a renovação do lago(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180522181000 -0300" stop="20180522183600 -0300" channel="Animal Planet">
+    <title lang="pt">Aprendiz Animal E5</title>
+    <desc lang="pt">Gui Padoa está no Cemacás, centro que recebe animais silvestres resgatados por toda a cidade de São Paulo e arredores. Acompanhado pela bióloga Juliana, primeiro ele conhece o biotério local e de lá pega um alimento improvável para os saguis(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180522183600 -0300" stop="20180522190600 -0300" channel="Animal Planet">
+    <title lang="pt">Terra Brasil E15</title>
+    <desc lang="pt">Aruay e Anderson sobem até o Pico do Couto, um dos pontos mais altos Brasil, conhecendo a vegetação de campo de altitude da área que está situada há mais de 2.600 metros de altitude, muito acima das nuvens(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Meio Ambiente</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180522190600 -0300" stop="20180522195600 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio - S9E7</title>
+    <desc lang="pt">Jeremy Wade se dedica à investigação mais complexa de sua carreira: desvendar o mistério do que aconteceu aos passageiros de um navio torpedeado na Segunda Guerra Mundial, no meio do Atlântico(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522195600 -0300" stop="20180522204100 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Mutante - S1E1</title>
+    <desc lang="pt">A Nova Zelândia é um arquipélago com um turbulento passado geológico e lar de criaturas impressionantes: aves que não voam, animais noturnos e fósseis vivos. A evolução avançou nesta ilha isolada, gerando alguns dos animais mais estranhos do mundo(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180522204100 -0300" stop="20180522213100 -0300" channel="Animal Planet">
+    <title lang="pt">Com Água Até o Pescoço - S7E17</title>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522213100 -0300" stop="20180522222100 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Incríveis - S2E7</title>
+    <desc lang="pt">Lucas enfrenta um desafio épico: construir uma piscina num palácio romano no Golfo do México. Ele precisa sair da zona de conforto para realizar o sonho dos clientes: morar num castelo à beira-mar(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522222100 -0300" stop="20180522231100 -0300" channel="Animal Planet">
+    <title lang="pt">Casas na Árvore - S5E7</title>
+    <desc lang="pt">Pete e a equipe se inspiram em Frank Lloyd Wright para construir uma casa às margens do Lago Barkley. Com a maior metragem da história da série, inclui um quarto, uma cozinha e até um banheiro(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522231100 -0300" stop="20180523000600 -0300" channel="Animal Planet">
+    <title lang="pt">Casas na Árvore - S5E5</title>
+    <desc lang="pt">A série acompanha o Sr. Nelson, de 50 anos, e sua equipe durante a construção das mais incríveis casas nas árvores já vistas(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180523000600 -0300" stop="20180523010600 -0300" channel="Animal Planet">
+    <title lang="pt">Meu Gato Endiabrado - S7E10</title>
+    <desc lang="pt">Jackson visita o abrigo Santé D'or para ajudar um gato muito agressivo, Pig Pen. Antes de partir, Jackson decide transformar totalmente o conceito do abrigo(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180523010600 -0300" stop="20180523015600 -0300" channel="Animal Planet">
+    <title lang="pt">Monstros do Rio - S9E7</title>
+    <desc lang="pt">Jeremy Wade se dedica à investigação mais complexa de sua carreira: desvendar o mistério do que aconteceu aos passageiros de um navio torpedeado na Segunda Guerra Mundial, no meio do Atlântico(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180523015600 -0300" stop="20180523024600 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Mutante - S1E1</title>
+    <desc lang="pt">A Nova Zelândia é um arquipélago com um turbulento passado geológico e lar de criaturas impressionantes: aves que não voam, animais noturnos e fósseis vivos. A evolução avançou nesta ilha isolada, gerando alguns dos animais mais estranhos do mundo(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523024600 -0300" stop="20180523033600 -0300" channel="Animal Planet">
+    <title lang="pt">Com Água Até o Pescoço - S7E17</title>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180523033600 -0300" stop="20180523042700 -0300" channel="Animal Planet">
+    <title lang="pt">Piscinas Incríveis - S2E7</title>
+    <desc lang="pt">Lucas enfrenta um desafio épico: construir uma piscina num palácio romano no Golfo do México. Ele precisa sair da zona de conforto para realizar o sonho dos clientes: morar num castelo à beira-mar(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180523042700 -0300" stop="20180523051800 -0300" channel="Animal Planet">
+    <title lang="pt">Casas na Árvore - S5E7</title>
+    <desc lang="pt">Pete e a equipe se inspiram em Frank Lloyd Wright para construir uma casa às margens do Lago Barkley. Com a maior metragem da história da série, inclui um quarto, uma cozinha e até um banheiro(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180523051800 -0300" stop="20180523060900 -0300" channel="Animal Planet">
+    <title lang="pt">Casas na Árvore - S5E5</title>
+    <desc lang="pt">A série acompanha o Sr. Nelson, de 50 anos, e sua equipe durante a construção das mais incríveis casas nas árvores já vistas(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180523060900 -0300" stop="20180523063900 -0300" channel="Animal Planet">
+    <title lang="pt">Pântano Perigoso E28</title>
+    <desc lang="pt">Um ferimento no premiado jacaré fêmea de Robbie coloca em risco o programa de reprodução. Será que um monstro de mais de 4 metros pode aumentar a fortuna dos irmãos Keszey?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523063900 -0300" stop="20180523073000 -0300" channel="Animal Planet">
+    <title lang="pt">Justiça Animal - S3E2</title>
+    <desc lang="pt">Um pescador de salmão é preso em Seattle. Na floresta, um policial lida com o abate ilegal de um alce. Um caçador de patos com porte ilegal de arma é confrontado pelos policiais(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20180523073000 -0300" stop="20180523082100 -0300" channel="Animal Planet">
+    <title lang="pt">Meu Gato Endiabrado - S7E7</title>
+    <desc lang="pt">Jackson vai a Nova York encontrar um pai e um filho que cuidam de gatos ferais em seu quintal; Jackson ensina Mike e Darcy a lidar com seu gato antissocial(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523082100 -0300" stop="20180523091200 -0300" channel="Animal Planet">
+    <title lang="pt">Com Água Até o Pescoço - S7E17</title>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180523091200 -0300" stop="20180523100700 -0300" channel="Animal Planet">
+    <title lang="pt">Vida E8</title>
+    <desc lang="pt">Usando novas técnicas de filmagem submarina, este episódio empreende uma jornada aos recantos mais remotos do oceano. Veja um grupo de lulas-de-Humboldt caçando(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523100700 -0300" stop="20180523110200 -0300" channel="Animal Planet">
+    <title lang="pt">Justiça Animal - S3E2</title>
+    <desc lang="pt">Um pescador de salmão é preso em Seattle. Na floresta, um policial lida com o abate ilegal de um alce. Um caçador de patos com porte ilegal de arma é confrontado pelos policiais(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20180523110200 -0300" stop="20180523115300 -0300" channel="Animal Planet">
+    <title lang="pt">Meu Gato Endiabrado - S7E7</title>
+    <desc lang="pt">Jackson vai a Nova York encontrar um pai e um filho que cuidam de gatos ferais em seu quintal; Jackson ensina Mike e Darcy a lidar com seu gato antissocial(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523115300 -0300" stop="20180523122300 -0300" channel="Animal Planet">
+    <title lang="pt">Pântano Perigoso E28</title>
+    <desc lang="pt">Um ferimento no premiado jacaré fêmea de Robbie coloca em risco o programa de reprodução. Será que um monstro de mais de 4 metros pode aumentar a fortuna dos irmãos Keszey?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523122300 -0300" stop="20180523132300 -0300" channel="Animal Planet">
+    <title lang="pt">Com Água Até o Pescoço - S7E17</title>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180523132300 -0300" stop="20180523141800 -0300" channel="Animal Planet">
+    <title lang="pt">Criaturas Estranhas - S3E8</title>
+    <desc lang="pt">Dominic Monaghan explora os cantos mais remotos do mundo em busca dos insetos mais perigosos, assustadores e raros do mundo em aventuras cheias de ação e perigo(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180523141800 -0300" stop="20180523150900 -0300" channel="Animal Planet">
+    <title lang="pt">Animais em Risco - Phoenix</title>
+    <desc lang="pt">As investigadoras encontram animais com doenças e deformidades(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523150900 -0300" stop="20180523160000 -0300" channel="Animal Planet">
+    <title lang="pt">Animais em Risco - Phoenix</title>
+    <desc lang="pt">A investigadora Marlynn Barkley encontra dois cães amarrados em um quintal, sob o sol inclemente do Arizona. O investigador AJ Meadows e a supervisora Stacie DaBolt têm dificuldades para negociar com uma mulher(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523160000 -0300" stop="20180523165100 -0300" channel="Animal Planet">
+    <title lang="pt">Animais em Risco - Phoenix</title>
+    <desc lang="pt">Um cão é encontrado morto, e dois outros estão muito magros e doentes. Stacie investiga o caso, enquanto a equipe do hospital tenta salvar os sobreviventes(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523165100 -0300" stop="20180523174200 -0300" channel="Animal Planet">
+    <title lang="pt">Vida E8</title>
+    <desc lang="pt">Usando novas técnicas de filmagem submarina, este episódio empreende uma jornada aos recantos mais remotos do oceano. Veja um grupo de lulas-de-Humboldt caçando(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523174200 -0300" stop="20180523181000 -0300" channel="Animal Planet">
+    <title lang="pt">Pântano Perigoso E23</title>
+    <desc lang="pt">Stephen Keszey pensa em abandonar o trabalho quando sua vida é posta em risco, enquanto seu irmão Robbie persegue um aligátor que decidiu entrar na lagoa errada(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523181000 -0300" stop="20180523183600 -0300" channel="Animal Planet">
+    <title lang="pt">Aprendiz Animal E6</title>
+    <desc lang="pt">Gui Padoa está no Parque do Rio Vermelho, em Florianópolis, para ajudar a ong R3, que cuida da fauna marinha e terrestre da região. O trabalho começa com a limpeza das muitas pedras do recinto das gaivotas e pinguins(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523183600 -0300" stop="20180523190600 -0300" channel="Animal Planet">
+    <title lang="pt">Terra Brasil E16</title>
+    <desc lang="pt">Aruay e Anderson caminham até a margem do Rio Grande, em Ibitipoca e, pelo caminho, se deparam com uma obra de engenharia da natureza, os ninhos do João-graveteiro, ave que constrói seus grandes ninhos com pequenos gravetos(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Meio Ambiente</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180523190600 -0300" stop="20180523195600 -0300" channel="Animal Planet">
+    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan - S3E1</title>
+    <desc lang="pt">Dom chega a Belize com a missão de encontrar a serpente mais temível da América Latina, a jararaca, uma cobra venenosa conhecida por emboscar suas vítimas e atacar sem ser provocada(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180523195600 -0300" stop="20180523204100 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Mutante - S1E2</title>
+    <desc lang="pt">A Austrália é um laboratório flutuante cujo passado geológico e clima instável desencadearam mutações nos animais, culminando no aparecimento de mais de 200 espécies de marsupiais, equipados com incríveis recursos de sobrevivência(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523204100 -0300" stop="20180523213100 -0300" channel="Animal Planet">
+    <title lang="pt">Planeta Terra - S1E8</title>
+    <desc lang="pt">Viaje pelas florestas do nosso planeta e conheça mais sobre o organismo maior, mais alto e mais antigo do mundo: a árvore(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180523213100 -0300" stop="20180523222100 -0300" channel="Animal Planet">
+    <title lang="pt">África - S1E4</title>
+    <desc lang="pt">O sul da África é um caos de vida e cor, mas se não fosse por duas grandes correntes oceânicas que dão forma ao grande cabo do continente, a área seria um deserto. Este episódio é sobre o poder criador do mar(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523222100 -0300" stop="20180524000600 -0300" channel="Animal Planet">
+    <title lang="pt">África Selvagem: Rios E2</title>
+    <desc lang="pt">Numa região castigada pelo rigor das estações, o Rio Luangwa é um porto seguro. Ele abriga a maior população de hipopótamos do mundo, mas quando seca, torna-se um campo de batalha(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180521000600 -0300" stop="20180521010600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Veterinários do Texas - S2E12</title>
+    <desc lang="pt">Acompanhe o trabalho de três veterinários do Texas e o cotidiano de suas famílias. Amigos de universidade, os três mudaram para Houston e abriram um hospital veterinário. Com muito humor e compaixão, eles cuidam de suas famílias e seus pacientes(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521010600 -0300" stop="20180521015600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Meu Gato Endiabrado - S6E6</title>
+    <desc lang="pt">Maryam entende os animais, mas não consegue se comunicar com sua gata agressiva, Lily. Depois de voltar a morar com os pais com sua gata, Khloe, Kym descobre uma colônia de gatos atrás da casa(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180521015600 -0300" stop="20180521024600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Com Água Até o Pescoço - S6E17</title>
+    <desc lang="pt">Com 2,13m, Hassan Whiteside sabe o que significa ser GRANDE. Wayde e Brett constroem para o astro da NBA um aquário tão grande que não passa pela porta da frente de sua casa em Miami(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521024600 -0300" stop="20180521033600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Com Água Até o Pescoço - S6E18</title>
+    <desc lang="pt">A fábrica de ferramentas Snap On Tools contrata a ATM para surpreender os participantes de sua convenção anual. Já o restaurante Nacho Daddy encomenda um terrário para seus escorpiões(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521033600 -0300" stop="20180521042700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Com Água Até o Pescoço - S6E19</title>
+    <desc lang="pt">A reforma de The Thumb, um posto de gasolina diferente, inclui até um aquário customizado feito pela ATM. Wayde e Brett analisam o projeto de um aquário para o Donut Bar, em Las Vegas(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521042700 -0300" stop="20180521051800 -0300" channel="Animal Planet HD">
+    <title lang="pt">Com Água Até o Pescoço - S6E20</title>
+    <desc lang="pt">Wayde, Brett e a pop star australiana Alli Simpson viajam para Flint, Michigan, para doar um incrível aquário para a Children's Miracle Network e o Hospital Infantil Hurley(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521051800 -0300" stop="20180521060900 -0300" channel="Animal Planet HD">
+    <title lang="pt">Veterinários do Texas - S2E12</title>
+    <desc lang="pt">Acompanhe o trabalho de três veterinários do Texas e o cotidiano de suas famílias. Amigos de universidade, os três mudaram para Houston e abriram um hospital veterinário. Com muito humor e compaixão, eles cuidam de suas famílias e seus pacientes(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521060900 -0300" stop="20180521063900 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pântano Perigoso E26</title>
+    <desc lang="pt">Os irmãos Keszey correm contra o tempo para descobrir o que está matando os jacarés. Eles têm dificuldade para trabalhar juntos enquanto coletam ovos(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180521063900 -0300" stop="20180521073000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Justiça Animal - S2E10</title>
+    <desc lang="pt">A polícia solta na floresta um urso que se aproximou da zona urbana e confronta pessoas que acenderam uma fogueira em uma área restrita. Na água, um barqueiro embriagado é preso(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20180521073000 -0300" stop="20180521082100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Meu Gato Endiabrado - S7E5</title>
+    <desc lang="pt">Jackson entra no mundo de Ellen, uma cuidadora que alimenta e tenta conter gatos de rua há mais de 20 anos; dois gatos sem pelos da raça Donskoy fazem a maior bagunça na casa de seu guardião(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180521082100 -0300" stop="20180521091200 -0300" channel="Animal Planet HD">
+    <title lang="pt">Com Água Até o Pescoço - S7E15</title>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521091200 -0300" stop="20180521100700 -0300" channel="Animal Planet HD">
+    <title lang="pt">África - S1E3</title>
+    <desc lang="pt">A floresta tropical do Congo, no coração da África, é um habitat pulsante e cheio de vida. Do meio da floresta às margens do Oceano Atlântico, cada um tem que brigar por seu espaço(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180521100700 -0300" stop="20180521110200 -0300" channel="Animal Planet HD">
+    <title lang="pt">Justiça Animal - S2E10</title>
+    <desc lang="pt">A polícia solta na floresta um urso que se aproximou da zona urbana e confronta pessoas que acenderam uma fogueira em uma área restrita. Na água, um barqueiro embriagado é preso(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20180521110200 -0300" stop="20180521115300 -0300" channel="Animal Planet HD">
+    <title lang="pt">Meu Gato Endiabrado - S7E5</title>
+    <desc lang="pt">Jackson entra no mundo de Ellen, uma cuidadora que alimenta e tenta conter gatos de rua há mais de 20 anos; dois gatos sem pelos da raça Donskoy fazem a maior bagunça na casa de seu guardião(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180521115300 -0300" stop="20180521122300 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pântano Perigoso E26</title>
+    <desc lang="pt">Os irmãos Keszey correm contra o tempo para descobrir o que está matando os jacarés. Eles têm dificuldade para trabalhar juntos enquanto coletam ovos(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180521122300 -0300" stop="20180521132300 -0300" channel="Animal Planet HD">
+    <title lang="pt">Com Água Até o Pescoço - S7E15</title>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521132300 -0300" stop="20180521141800 -0300" channel="Animal Planet HD">
+    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan - S3E6</title>
+    <desc lang="pt">Dom viaja para o Sri Lanka para saber mais sobre a cobra mais famosa do mundo: a naja indiana(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180521141800 -0300" stop="20180521150900 -0300" channel="Animal Planet HD">
+    <title lang="pt">Caçadores das Profundezas - S4E1</title>
+    <desc lang="pt">O raro ataque de uma orca a um tubarão-branco obriga os tubarões de Neptune Island a vagar pelos leitos de abalone, arriscando a vida dos mergulhadores(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180521150900 -0300" stop="20180521160000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Caçadores das Profundezas - S4E2</title>
+    <desc lang="pt">Toda a indústria de abalone de Port Lincoln é ameaçada quando tubarões-brancos começam a aparecer inesperadamente(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180521160000 -0300" stop="20180521165100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Caçadores das Profundezas - S4E3</title>
+    <desc lang="pt">Os mergulhadores são obrigados a ir mais longe e trabalhar em águas mais profundas para levar para casa os valiosos moluscos, apesar do número crescente de tubarões-brancos rondando a costa(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180521165100 -0300" stop="20180521174200 -0300" channel="Animal Planet HD">
+    <title lang="pt">África - S1E3</title>
+    <desc lang="pt">A floresta tropical do Congo, no coração da África, é um habitat pulsante e cheio de vida. Do meio da floresta às margens do Oceano Atlântico, cada um tem que brigar por seu espaço(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180521174200 -0300" stop="20180521181000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pântano Perigoso E21</title>
+    <desc lang="pt">Robbie e Stephen ajudam um criador de aligátores a recapturar um animal premiado. Em St. Augustine, os irmãos conhecem mais um aligátor enorme - e Stephen não se dá muito bem com ele(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180521181000 -0300" stop="20180521183600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Aprendiz Animal E4</title>
+    <desc lang="pt">Cíntia é proprietária do Santuário Terra dos Bichos, projeto bancado por ela para cuidar de animais que sofreram maus tratos. Gui logo se identifica com os bichos da fazenda(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180521183600 -0300" stop="20180521190600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Terra Brasil E14</title>
+    <desc lang="pt">Anderson, Mayra e Aruay conhecem o vale das velozias-gigantes, plantas que só ocorrem em determinadas regiões de Minas Gerais com alguns exemplares tendo mais de 600 anos(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Meio Ambiente</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180521190600 -0300" stop="20180521195600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Monstros do Rio - S9E6</title>
+    <desc lang="pt">Jeremy Wade se dedica à investigação mais complexa de sua carreira: desvendar o mistério do que aconteceu aos passageiros de um navio torpedeado na Segunda Guerra Mundial, no meio do Atlântico(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180521195600 -0300" stop="20180521204100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Planeta Terra - S1E11</title>
+    <desc lang="pt">Os oceanos cobrem 2/3 do nosso planeta, mas ainda há tanto a explorar. Sem dúvida, a parte mais desconhecida do planeta é o oceano. Este programa mergulha nele e revela um pouco mais da vida existente nas profundezas(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180521204100 -0300" stop="20180521213100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan - S2E9</title>
+    <desc lang="pt">Dominic chega à Costa Rica, que abriga mais de meio milhão de espécies de animais, incluindo uma rã do tamanho de uma unha, incrivelmente bonita e extremamente ameaçada(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180521213100 -0300" stop="20180521222100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan - S2E10</title>
+    <desc lang="pt">Dominic enfrenta uma de suas missões mais desafiadoras ao viajar para a terra do sol nascente em busca da salamandra-gigante(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180521222100 -0300" stop="20180521231100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Perdido na Califórnia E5</title>
+    <desc lang="pt">Remando em um caiaque, Frank mostra os animais marinhos que vivem no estuário do porto de Moss Landing, uma reserva de espécies protegidas(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+  </programme>
+  <programme start="20180521231100 -0300" stop="20180522000600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Perdido na Califórnia E6</title>
+    <desc lang="pt">Frank percorre o Parque Nacional Yosemite, onde encontra um dos felinos mais belos do mundo: o puma(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+  </programme>
+  <programme start="20180522000600 -0300" stop="20180522010600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Veterinários do Texas - S2E2</title>
+    <desc lang="pt">Um susto interrompe o sonho do Dr. Blue de viajar de moto com seu irmão. O Dr. Ross trata um dragão-barbudo com ovos ruins. O Dr. Lavigne não sabe o que fazer com um tumor na pata de um boxer(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522010600 -0300" stop="20180522015600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Monstros do Rio - S9E6</title>
+    <desc lang="pt">Jeremy Wade se dedica à investigação mais complexa de sua carreira: desvendar o mistério do que aconteceu aos passageiros de um navio torpedeado na Segunda Guerra Mundial, no meio do Atlântico(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522015600 -0300" stop="20180522024600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Planeta Terra - S1E11</title>
+    <desc lang="pt">Os oceanos cobrem 2/3 do nosso planeta, mas ainda há tanto a explorar. Sem dúvida, a parte mais desconhecida do planeta é o oceano. Este programa mergulha nele e revela um pouco mais da vida existente nas profundezas(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180522024600 -0300" stop="20180522033600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan - S2E9</title>
+    <desc lang="pt">Dominic chega à Costa Rica, que abriga mais de meio milhão de espécies de animais, incluindo uma rã do tamanho de uma unha, incrivelmente bonita e extremamente ameaçada(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180522033600 -0300" stop="20180522042700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan - S2E10</title>
+    <desc lang="pt">Dominic enfrenta uma de suas missões mais desafiadoras ao viajar para a terra do sol nascente em busca da salamandra-gigante(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180522042700 -0300" stop="20180522051800 -0300" channel="Animal Planet HD">
+    <title lang="pt">Perdido na Califórnia E5</title>
+    <desc lang="pt">Remando em um caiaque, Frank mostra os animais marinhos que vivem no estuário do porto de Moss Landing, uma reserva de espécies protegidas(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+  </programme>
+  <programme start="20180522051800 -0300" stop="20180522060900 -0300" channel="Animal Planet HD">
+    <title lang="pt">Perdido na Califórnia E6</title>
+    <desc lang="pt">Frank percorre o Parque Nacional Yosemite, onde encontra um dos felinos mais belos do mundo: o puma(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+  </programme>
+  <programme start="20180522060900 -0300" stop="20180522063900 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pântano Perigoso E27</title>
+    <desc lang="pt">Os irmãos capturam um dos crocodilos mais raros do mundo. Será que conseguirão fazer com que ele se reproduza e salve os negócios? Porcos selvagens ameaçam a fazenda(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180522063900 -0300" stop="20180522073000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Justiça Animal - S3E1</title>
+    <desc lang="pt">A Polícia de Caça e Pesca de Washington procura filhotes perdidos de puma. No porto de Seattle, um pescador é preso e um policial confronta uma família que recolhe filhotes de caranguejos(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20180522073000 -0300" stop="20180522082100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Meu Gato Endiabrado - S7E6</title>
+    <desc lang="pt">Jackson encontra Samantha, que tem tanto medo de seu gato que o deixa em uma caixa fora de casa; no Brooklyn, ele atende um casal que sofre com as brigas constantes de seus gatos(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180522082100 -0300" stop="20180522091200 -0300" channel="Animal Planet HD">
+    <title lang="pt">Com Água Até o Pescoço - S7E16</title>
+    <desc lang="pt">O jogador de futebol americano Antonio Brown acredita que um aquário de peixes pode ajudá-lo a chegar ao Super Bowl este ano - e a ATM faz de tudo para manter o astro motivado(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522091200 -0300" stop="20180522100700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Planeta Gelado: Primavera E2</title>
+    <desc lang="pt">O Ártico e a Antártica continuam sendo os lugares mais selvagens da Terra. Neste episódio de Planeta Gelado vemos a chegada da primavera e a volta do sol e da vida aos polos(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180522100700 -0300" stop="20180522110200 -0300" channel="Animal Planet HD">
+    <title lang="pt">Justiça Animal - S3E1</title>
+    <desc lang="pt">A Polícia de Caça e Pesca de Washington procura filhotes perdidos de puma. No porto de Seattle, um pescador é preso e um policial confronta uma família que recolhe filhotes de caranguejos(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20180522110200 -0300" stop="20180522115300 -0300" channel="Animal Planet HD">
+    <title lang="pt">Meu Gato Endiabrado - S7E6</title>
+    <desc lang="pt">Jackson encontra Samantha, que tem tanto medo de seu gato que o deixa em uma caixa fora de casa; no Brooklyn, ele atende um casal que sofre com as brigas constantes de seus gatos(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180522115300 -0300" stop="20180522122300 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pântano Perigoso E27</title>
+    <desc lang="pt">Os irmãos capturam um dos crocodilos mais raros do mundo. Será que conseguirão fazer com que ele se reproduza e salve os negócios? Porcos selvagens ameaçam a fazenda(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180522122300 -0300" stop="20180522132300 -0300" channel="Animal Planet HD">
+    <title lang="pt">Com Água Até o Pescoço - S7E16</title>
+    <desc lang="pt">O jogador de futebol americano Antonio Brown acredita que um aquário de peixes pode ajudá-lo a chegar ao Super Bowl este ano - e a ATM faz de tudo para manter o astro motivado(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522132300 -0300" stop="20180522141800 -0300" channel="Animal Planet HD">
+    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan - S3E7</title>
+    <desc lang="pt">Dom procura a espécie mais próxima dos lendários dragões: o lagarto voador das Filipinas. Para isso, ele explora o enorme arquipélago, formado por mais de 7.000 ilhas(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180522141800 -0300" stop="20180522150900 -0300" channel="Animal Planet HD">
+    <title lang="pt">Dra. Dee: Veterinária do Alasca - S2E2</title>
+    <desc lang="pt">A Dr. Dee começa a arrecadar fundos para um abrigo em Fairbanks com uma competição de truques de animais de estimação. Uma porca chamada Lilly Lou é submetida a uma cirurgia cheia de surpresas(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522150900 -0300" stop="20180522160000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Dra. Dee: Veterinária do Alasca - S2E3</title>
+    <desc lang="pt">A Dra. Dee e Ken trabalham numa clínica veterinária em Eagle, Alaska. O Dr. Terry realiza uma cirurgia em um cão que sofreu um ataque brutal. A Dra. Dee soluciona o mistério de uma tartaruga apaixonada(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522160000 -0300" stop="20180522165100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Dra. Dee: Veterinária do Alasca - S2E4</title>
+    <desc lang="pt">Dee examina um chihuahua com uma doença grave, apara o bico de uma arara e atende um bezerra que sofreu complicações após o parto. A Dra. Dee e seu marido, Ken, recebem sete bodes em sua casa(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522165100 -0300" stop="20180522174200 -0300" channel="Animal Planet HD">
+    <title lang="pt">Planeta Gelado: Primavera E2</title>
+    <desc lang="pt">O Ártico e a Antártica continuam sendo os lugares mais selvagens da Terra. Neste episódio de Planeta Gelado vemos a chegada da primavera e a volta do sol e da vida aos polos(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180522174200 -0300" stop="20180522181000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pântano Perigoso E22</title>
+    <desc lang="pt">Quando o maior casal da fazenda não aparece para se alimentar, os rapazes precisam trazê-lo para a terra. Robbie e Stephen chamam Jerry e JP para ajudar a capturar um crocodilo-cubano e iniciar a renovação do lago(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180522181000 -0300" stop="20180522183600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Aprendiz Animal E5</title>
+    <desc lang="pt">Gui Padoa está no Cemacás, centro que recebe animais silvestres resgatados por toda a cidade de São Paulo e arredores. Acompanhado pela bióloga Juliana, primeiro ele conhece o biotério local e de lá pega um alimento improvável para os saguis(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180522183600 -0300" stop="20180522190600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Terra Brasil E15</title>
+    <desc lang="pt">Aruay e Anderson sobem até o Pico do Couto, um dos pontos mais altos Brasil, conhecendo a vegetação de campo de altitude da área que está situada há mais de 2.600 metros de altitude, muito acima das nuvens(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Meio Ambiente</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180522190600 -0300" stop="20180522195600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Monstros do Rio - S9E7</title>
+    <desc lang="pt">Jeremy Wade se dedica à investigação mais complexa de sua carreira: desvendar o mistério do que aconteceu aos passageiros de um navio torpedeado na Segunda Guerra Mundial, no meio do Atlântico(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522195600 -0300" stop="20180522204100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Planeta Mutante - S1E1</title>
+    <desc lang="pt">A Nova Zelândia é um arquipélago com um turbulento passado geológico e lar de criaturas impressionantes: aves que não voam, animais noturnos e fósseis vivos. A evolução avançou nesta ilha isolada, gerando alguns dos animais mais estranhos do mundo(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180522204100 -0300" stop="20180522213100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Com Água Até o Pescoço - S7E17</title>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522213100 -0300" stop="20180522222100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Piscinas Incríveis - S2E7</title>
+    <desc lang="pt">Lucas enfrenta um desafio épico: construir uma piscina num palácio romano no Golfo do México. Ele precisa sair da zona de conforto para realizar o sonho dos clientes: morar num castelo à beira-mar(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522222100 -0300" stop="20180522231100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Casas na Árvore - S5E7</title>
+    <desc lang="pt">Pete e a equipe se inspiram em Frank Lloyd Wright para construir uma casa às margens do Lago Barkley. Com a maior metragem da história da série, inclui um quarto, uma cozinha e até um banheiro(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180522231100 -0300" stop="20180523000600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Casas na Árvore - S5E5</title>
+    <desc lang="pt">A série acompanha o Sr. Nelson, de 50 anos, e sua equipe durante a construção das mais incríveis casas nas árvores já vistas(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180523000600 -0300" stop="20180523010600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Meu Gato Endiabrado - S7E10</title>
+    <desc lang="pt">Jackson visita o abrigo Santé D'or para ajudar um gato muito agressivo, Pig Pen. Antes de partir, Jackson decide transformar totalmente o conceito do abrigo(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180523010600 -0300" stop="20180523015600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Monstros do Rio - S9E7</title>
+    <desc lang="pt">Jeremy Wade se dedica à investigação mais complexa de sua carreira: desvendar o mistério do que aconteceu aos passageiros de um navio torpedeado na Segunda Guerra Mundial, no meio do Atlântico(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180523015600 -0300" stop="20180523024600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Planeta Mutante - S1E1</title>
+    <desc lang="pt">A Nova Zelândia é um arquipélago com um turbulento passado geológico e lar de criaturas impressionantes: aves que não voam, animais noturnos e fósseis vivos. A evolução avançou nesta ilha isolada, gerando alguns dos animais mais estranhos do mundo(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523024600 -0300" stop="20180523033600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Com Água Até o Pescoço - S7E17</title>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180523033600 -0300" stop="20180523042700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Piscinas Incríveis - S2E7</title>
+    <desc lang="pt">Lucas enfrenta um desafio épico: construir uma piscina num palácio romano no Golfo do México. Ele precisa sair da zona de conforto para realizar o sonho dos clientes: morar num castelo à beira-mar(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180523042700 -0300" stop="20180523051800 -0300" channel="Animal Planet HD">
+    <title lang="pt">Casas na Árvore - S5E7</title>
+    <desc lang="pt">Pete e a equipe se inspiram em Frank Lloyd Wright para construir uma casa às margens do Lago Barkley. Com a maior metragem da história da série, inclui um quarto, uma cozinha e até um banheiro(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180523051800 -0300" stop="20180523060900 -0300" channel="Animal Planet HD">
+    <title lang="pt">Casas na Árvore - S5E5</title>
+    <desc lang="pt">A série acompanha o Sr. Nelson, de 50 anos, e sua equipe durante a construção das mais incríveis casas nas árvores já vistas(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180523060900 -0300" stop="20180523063900 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pântano Perigoso E28</title>
+    <desc lang="pt">Um ferimento no premiado jacaré fêmea de Robbie coloca em risco o programa de reprodução. Será que um monstro de mais de 4 metros pode aumentar a fortuna dos irmãos Keszey?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523063900 -0300" stop="20180523073000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Justiça Animal - S3E2</title>
+    <desc lang="pt">Um pescador de salmão é preso em Seattle. Na floresta, um policial lida com o abate ilegal de um alce. Um caçador de patos com porte ilegal de arma é confrontado pelos policiais(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20180523073000 -0300" stop="20180523082100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Meu Gato Endiabrado - S7E7</title>
+    <desc lang="pt">Jackson vai a Nova York encontrar um pai e um filho que cuidam de gatos ferais em seu quintal; Jackson ensina Mike e Darcy a lidar com seu gato antissocial(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523082100 -0300" stop="20180523091200 -0300" channel="Animal Planet HD">
+    <title lang="pt">Com Água Até o Pescoço - S7E17</title>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180523091200 -0300" stop="20180523100700 -0300" channel="Animal Planet HD">
+    <title lang="pt">Vida E8</title>
+    <desc lang="pt">Usando novas técnicas de filmagem submarina, este episódio empreende uma jornada aos recantos mais remotos do oceano. Veja um grupo de lulas-de-Humboldt caçando(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523100700 -0300" stop="20180523110200 -0300" channel="Animal Planet HD">
+    <title lang="pt">Justiça Animal - S3E2</title>
+    <desc lang="pt">Um pescador de salmão é preso em Seattle. Na floresta, um policial lida com o abate ilegal de um alce. Um caçador de patos com porte ilegal de arma é confrontado pelos policiais(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20180523110200 -0300" stop="20180523115300 -0300" channel="Animal Planet HD">
+    <title lang="pt">Meu Gato Endiabrado - S7E7</title>
+    <desc lang="pt">Jackson vai a Nova York encontrar um pai e um filho que cuidam de gatos ferais em seu quintal; Jackson ensina Mike e Darcy a lidar com seu gato antissocial(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523115300 -0300" stop="20180523122300 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pântano Perigoso E28</title>
+    <desc lang="pt">Um ferimento no premiado jacaré fêmea de Robbie coloca em risco o programa de reprodução. Será que um monstro de mais de 4 metros pode aumentar a fortuna dos irmãos Keszey?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523122300 -0300" stop="20180523132300 -0300" channel="Animal Planet HD">
+    <title lang="pt">Com Água Até o Pescoço - S7E17</title>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180523132300 -0300" stop="20180523141800 -0300" channel="Animal Planet HD">
+    <title lang="pt">Criaturas Estranhas - S3E8</title>
+    <desc lang="pt">Dominic Monaghan explora os cantos mais remotos do mundo em busca dos insetos mais perigosos, assustadores e raros do mundo em aventuras cheias de ação e perigo(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180523141800 -0300" stop="20180523150900 -0300" channel="Animal Planet HD">
+    <title lang="pt">Animais em Risco - Phoenix</title>
+    <desc lang="pt">As investigadoras encontram animais com doenças e deformidades(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523150900 -0300" stop="20180523160000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Animais em Risco - Phoenix</title>
+    <desc lang="pt">A investigadora Marlynn Barkley encontra dois cães amarrados em um quintal, sob o sol inclemente do Arizona. O investigador AJ Meadows e a supervisora Stacie DaBolt têm dificuldades para negociar com uma mulher(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523160000 -0300" stop="20180523165100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Animais em Risco - Phoenix</title>
+    <desc lang="pt">Um cão é encontrado morto, e dois outros estão muito magros e doentes. Stacie investiga o caso, enquanto a equipe do hospital tenta salvar os sobreviventes(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523165100 -0300" stop="20180523174200 -0300" channel="Animal Planet HD">
+    <title lang="pt">Vida E8</title>
+    <desc lang="pt">Usando novas técnicas de filmagem submarina, este episódio empreende uma jornada aos recantos mais remotos do oceano. Veja um grupo de lulas-de-Humboldt caçando(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523174200 -0300" stop="20180523181000 -0300" channel="Animal Planet HD">
+    <title lang="pt">Pântano Perigoso E23</title>
+    <desc lang="pt">Stephen Keszey pensa em abandonar o trabalho quando sua vida é posta em risco, enquanto seu irmão Robbie persegue um aligátor que decidiu entrar na lagoa errada(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523181000 -0300" stop="20180523183600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Aprendiz Animal E6</title>
+    <desc lang="pt">Gui Padoa está no Parque do Rio Vermelho, em Florianópolis, para ajudar a ong R3, que cuida da fauna marinha e terrestre da região. O trabalho começa com a limpeza das muitas pedras do recinto das gaivotas e pinguins(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523183600 -0300" stop="20180523190600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Terra Brasil E16</title>
+    <desc lang="pt">Aruay e Anderson caminham até a margem do Rio Grande, em Ibitipoca e, pelo caminho, se deparam com uma obra de engenharia da natureza, os ninhos do João-graveteiro, ave que constrói seus grandes ninhos com pequenos gravetos(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Meio Ambiente</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180523190600 -0300" stop="20180523195600 -0300" channel="Animal Planet HD">
+    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan - S3E1</title>
+    <desc lang="pt">Dom chega a Belize com a missão de encontrar a serpente mais temível da América Latina, a jararaca, uma cobra venenosa conhecida por emboscar suas vítimas e atacar sem ser provocada(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180523195600 -0300" stop="20180523204100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Planeta Mutante - S1E2</title>
+    <desc lang="pt">A Austrália é um laboratório flutuante cujo passado geológico e clima instável desencadearam mutações nos animais, culminando no aparecimento de mais de 200 espécies de marsupiais, equipados com incríveis recursos de sobrevivência(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523204100 -0300" stop="20180523213100 -0300" channel="Animal Planet HD">
+    <title lang="pt">Planeta Terra - S1E8</title>
+    <desc lang="pt">Viaje pelas florestas do nosso planeta e conheça mais sobre o organismo maior, mais alto e mais antigo do mundo: a árvore(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180523213100 -0300" stop="20180523222100 -0300" channel="Animal Planet HD">
+    <title lang="pt">África - S1E4</title>
+    <desc lang="pt">O sul da África é um caos de vida e cor, mas se não fosse por duas grandes correntes oceânicas que dão forma ao grande cabo do continente, a área seria um deserto. Este episódio é sobre o poder criador do mar(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180523222100 -0300" stop="20180524000600 -0300" channel="Animal Planet HD">
+    <title lang="pt">África Selvagem: Rios E2</title>
+    <desc lang="pt">Numa região castigada pelo rigor das estações, o Rio Luangwa é um porto seguro. Ele abriga a maior população de hipopótamos do mundo, mas quando seca, torna-se um campo de batalha(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+</tv>
